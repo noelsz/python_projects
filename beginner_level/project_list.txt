@@ -1,0 +1,60 @@
+1. hello_world.py
+   - the simplest project to start coding with
+   - welcomes you with the infamous greeting
+
+2. Basic Calculator
+   - Create a calculator that can perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+3. Number Guessing Game
+   - A game where the computer randomly selects a number, and the user has to guess it with feedback on each guess.
+
+4. Mad Libs Game
+   - Create a simple Mad Libs game where the user inputs different words, and those words are inserted into a story template.
+
+5. Simple To-Do List
+   - Build a command-line to-do list application where users can add, remove, and view tasks.
+
+6. Dice Rolling Simulator
+   - Create a program that simulates rolling a pair of dice, displaying the result of each roll.
+
+7. Countdown Timer
+   - Write a program that takes a user input for the number of seconds and counts down to zero, then prints "Time's up!".
+
+8. Password Generator
+   - Create a program that generates a random, secure password based on criteria set by the user (length, use of special characters, etc.).
+
+9. Weather App
+   - Use an API to fetch weather data for a given location and display it to the user.
+
+10. Simple Contact Book
+    - Develop a program to manage contacts, allowing the user to add, remove, and search for contacts.
+
+11. Palindrome Checker
+    - Write a program that checks if a given string is a palindrome.
+
+12. Unit Converter
+    - Create a program that converts units of measurement (e.g., kilometers to miles, Celsius to Fahrenheit).
+
+13. Hangman Game
+    - Develop a simple text-based version of the Hangman game.
+
+14. Basic Web Scraper
+    - Use libraries like BeautifulSoup to scrape information from a website.
+
+15. Tic-Tac-Toe Game
+    - Implement a two-player Tic-Tac-Toe game.
+
+16. Rock, Paper, Scissors Game
+    - Write a program for a simple Rock, Paper, Scissors game against the computer.
+
+17. Email Slicer
+    - Create a program that takes an email address and slices it into username and domain.
+
+18. Binary to Decimal Converter
+    - Write a program to convert binary numbers to decimal.
+
+19. JSON Data Parsing
+    - Write a program to parse JSON data and extract specific information.
+
+20. Basic Chatbot
+    - Create a simple rule-based chatbot that can respond to user inputs with predefined answers.
