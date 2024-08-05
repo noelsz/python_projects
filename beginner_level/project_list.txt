@@ -10,11 +10,13 @@
    - a number guessing game where the computer thinks about a random number between 1 and 100 and the user has to guess it
    - gives feedback upon every guess whether the guess is higher or lower than the desired number
 
-4. Mad Libs Game
-   - Create a simple Mad Libs game where the user inputs different words, and those words are inserted into a story template.
+4. mad_libs.py
+   - a very simple implementation of the game where you have to fill the gaps in a story with words
+   - this python game has to be customized according to the story, and its requirements for words
 
-5. Simple To-Do List
-   - Build a command-line to-do list application where users can add, remove, and view tasks.
+5. to_do_list.py
+   - a command-line to-do list where you can add, remove and view tasks
+   - choose from the menu on the console and manage your tasks
 
 6. Dice Rolling Simulator
    - Create a program that simulates rolling a pair of dice, displaying the result of each roll.
