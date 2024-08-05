@@ -2,8 +2,9 @@
    - the simplest project to start coding with
    - welcomes you with the infamous greeting
 
-2. Basic Calculator
-   - Create a calculator that can perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+2. simple_calculator.py
+   - a calculator in its simplest form
+   - can perform the basic arithmetic operations, addition, subtraction, multiplication, division
 
 3. Number Guessing Game
    - A game where the computer randomly selects a number, and the user has to guess it with feedback on each guess.
