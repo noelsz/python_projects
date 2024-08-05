@@ -6,8 +6,9 @@
    - a calculator in its simplest form
    - can perform the basic arithmetic operations, addition, subtraction, multiplication, division
 
-3. Number Guessing Game
-   - A game where the computer randomly selects a number, and the user has to guess it with feedback on each guess.
+3. number_guesser.py
+   - a number guessing game where the computer thinks about a random number between 1 and 100 and the user has to guess it
+   - gives feedback upon every guess whether the guess is higher or lower than the desired number
 
 4. Mad Libs Game
    - Create a simple Mad Libs game where the user inputs different words, and those words are inserted into a story template.

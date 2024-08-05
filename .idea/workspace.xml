@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27551a6a-0f36-41a5-9e9d-93a4a0473a9e" name="Changes" comment="hello world">
-      <change afterPath="$PROJECT_DIR$/beginner_level/number_guesser.py" afterDir="false" />
+    <list default="true" id="27551a6a-0f36-41a5-9e9d-93a4a0473a9e" name="Changes" comment="number guesser game">
+      <change afterPath="$PROJECT_DIR$/beginner_level/mad_libs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/beginner_level/project_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/beginner_level/project_list.txt" afterDir="false" />
     </list>
@@ -36,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.hello_world.executor": "Run",
+    "Python.mad_libs.executor": "Run",
     "Python.number_guesser.executor": "Run",
     "Python.simple_calculator.executor": "Run",
     "Python.test.executor": "Run",
@@ -84,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719917730859</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="number guesser game">
+      <option name="closed" value="true" />
+      <created>1722850159213</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722850159213</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first things first" />
     <MESSAGE value="hello world" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello world" />
+    <MESSAGE value="number guesser game" />
+    <option name="LAST_COMMIT_MESSAGE" value="number guesser game" />
   </component>
 </project>
